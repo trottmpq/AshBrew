@@ -9,4 +9,7 @@
 |STAINLESS STEEL HERMS COIL   |89.4   |1   |<https://www.angelhomebrew.co.uk/herms/207-stainless-steel-herms-coil.html>   |89.4   |
 |Taps   |21.6   |4   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=filter%20steel&PN=Tap_Kit%2ehtml#SID=172>   |86.4   |
 |   |   |   |   |   |
+| Plastic carboy (fermenting) | 20 | 2 | https://www.brewstore.co.uk/23-litre-plastic-carboy | 40 | 
+| Air lock | 1.50 | 2 | https://www.the-home-brew-shop.co.uk/acatalog/Super_Major_Airlock.html | 3 | 
+| Bung | 0.6 | 2 | https://www.the-home-brew-shop.co.uk/acatalog/Rubber_Bung_for_Demijohn_Bored_WITH_HOLE_.html | 1.20 |  
 |   |   |   |   |   |
