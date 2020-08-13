@@ -11,6 +11,7 @@
 |Techlifer MP-15RP Beer Pump with Food Grade Stainless Steel Head Magnetic Brewing Beer Pump with 1/2 Inch High Temp Magnetic Brewing Beer Pump(MP-15RP)   |67.99   |3   |<https://www.amazon.co.uk/Techlifer-MP-15RP-Stainless-Magnetic-Brewing/dp/B07P8S816B/ref=pd_sbs_200_2/262-6410432-3463527?_encoding=UTF8&pd_rd_i=B07P8S816B&pd_rd_r=b6decad4-e18b-44ba-ab6b-4b97f19e553a&pd_rd_w=0V3Pp&pd_rd_wg=viqEA&pf_rd_p=b9bf232d-9a8a-4c7d-aa9d-641c0995d3a2&pf_rd_r=FM5N7GMV75T46CYYW5Y5&psc=1&refRID=FM5N7GMV75T46CYYW5Y5>   |203.97   |
 | Chugger pump | 175 | 3 | https://www.brewbuilder.co.uk/chugger-pump-center-inlet.html | 525 | 
 | Mini mag pump - DC powered | 47.50 | 3 | https://www.brewbuilder.co.uk/ts5-mini-mag-pump.html | 142.50 |
+| Flow rate meter | 36.19 | 2 | https://uk.rs-online.com/web/p/flow-sensors-indicators/5114772/ | 72.38 | 
 |Tap Kit Weldless & Hop or Grain Filter   |28.8   |1   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=filter&PN=Tap%2dKit%2dWeldless%2dHop%2dGrain%2dFilter%2ehtml#SID=172>   |28.8   |
 |Counterflow 36 Plate Wort Chiller from S30   |79.68   |1   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=chiller&PN=Plate%2dWort%2dChiller%2dfrom%2dS30%2ehtml#SID=168>   |79.68   |
 | Plastic carboy (fermenting) | 20 | 2 | <https://www.brewstore.co.uk/23-litre-plastic-carboy> | 40 |
