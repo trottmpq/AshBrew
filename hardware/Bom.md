@@ -9,6 +9,7 @@
 |RTD sensors   |26.77   |3   |<https://www.sterlingsensors.co.uk/rtd-sensor-with-process-connection.html>   |80.31   |
 |STAINLESS STEEL HERMS COIL   |89.4   |1   |<https://www.angelhomebrew.co.uk/herms/207-stainless-steel-herms-coil.html>   |89.4   |
 |Taps   |21.6   |4   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=filter%20steel&PN=Tap_Kit%2ehtml#SID=172>   |86.4   |
+| Option - 3 port valve | 23.28 | 3 | https://www.angelhomebrew.co.uk/valves-and-tap-kits/147-3-way-12-bsp-ball-valve.html | 69.84 | 
 |Techlifer MP-15RP Beer Pump with Food Grade Stainless Steel Head Magnetic Brewing Beer Pump with 1/2 Inch High Temp Magnetic Brewing Beer Pump(MP-15RP)   |67.99   |3   |<https://www.amazon.co.uk/Techlifer-MP-15RP-Stainless-Magnetic-Brewing/dp/B07P8S816B/ref=pd_sbs_200_2/262-6410432-3463527?_encoding=UTF8&pd_rd_i=B07P8S816B&pd_rd_r=b6decad4-e18b-44ba-ab6b-4b97f19e553a&pd_rd_w=0V3Pp&pd_rd_wg=viqEA&pf_rd_p=b9bf232d-9a8a-4c7d-aa9d-641c0995d3a2&pf_rd_r=FM5N7GMV75T46CYYW5Y5&psc=1&refRID=FM5N7GMV75T46CYYW5Y5>   |203.97   |
 | Chugger pump | 175 | 3 | https://www.brewbuilder.co.uk/chugger-pump-center-inlet.html | 525 | 
 | Mini mag pump - DC powered | 47.50 | 3 | https://www.brewbuilder.co.uk/ts5-mini-mag-pump.html | 142.50 |
@@ -21,7 +22,19 @@
 | Air lock | 1.50 | 2 | <https://www.the-home-brew-shop.co.uk/acatalog/Super_Major_Airlock.html> | 3 |
 | Bung | 0.6 | 2 | <https://www.the-home-brew-shop.co.uk/acatalog/Rubber_Bung_for_Demijohn_Bored_WITH_HOLE_.html> | 1.20 |  
 | Grain mill | 91.50 | 1 | https://www.home-brew-online.com/equipment-c40/bulldog-brews-bulldog-malt-mill-p2350 | 91.50 | 
-|   |   |   |   |   |
+| Hydrometer | ~10 | 1 | various | 10 |
+
+Current total
+-------------
+(Brew kit only, no table or fermenter) = 805.01 - 1117.42 
+(lower price is cheaper options, minimum to get going. Larger price, expensive options, and extras)
+
+Extra thoughts
+---------------
+Motorised valves seem to be v. expensive. 
+
+Do we want to control the speed of wort through the chiller to hit a given temperature on the exit? If so +1 RTD and maybe +1 flow meter
+
 
 
 
