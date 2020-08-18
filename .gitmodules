@@ -1,0 +1,3 @@
+[submodule "software/craftbeerpi"]
+	path = software/craftbeerpi
+	url = git@github.com:trottmpq/craftbeerpi.git
