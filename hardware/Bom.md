@@ -54,7 +54,7 @@ python based control software
 
 # Purchased
 | Buyer | Item | Qty | Cost | VAT | 
-|---|---|---|---|
+|---|---|---|---|---|
 | HSL | TS5 - Mini Mag Pump | 3	 | £118.74 | N |
 | HSL | 1/2" to 1/4" BSP Reducing bush | 2	| £3.50 |N |
 | HSL | Pt100 Temperature probes Probe type / length mm: PT100/60mm (+£2.50)	| 3 | 	£43.74 | N |
