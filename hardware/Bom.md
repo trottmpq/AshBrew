@@ -51,3 +51,14 @@ someones attempt at automating it all.
 
 python based control software
 <https://github.com/manuel83/craftbeerpi>
+
+# Purchased
+| Buyer | Item | Qty | Cost | VAT | 
+|---|---|---|---|
+| HSL | TS5 - Mini Mag Pump | 3	 | £118.74 | N |
+| HSL | 1/2" to 1/4" BSP Reducing bush | 2	| £3.50 |N |
+| HSL | Pt100 Temperature probes Probe type / length mm: PT100/60mm (+£2.50)	| 3 | 	£43.74 | N |
+| HSL | Silicone Hose - Platinum Cured 1/2" | 3m |	£11.88 | N |
+| HSL | 3 Way Ball valve - L port  | 3 | 	£81.24 | N |
+| HSL | 1/2" Tee | 1	| £2.29 |N |
+| HSL  | 1/2" Hose Barb | 10	| £20.80 | N |
