@@ -66,3 +66,4 @@ python based control software
 | HSL | 1/2" Hose Barb | 10 | £20.80 | N |
 | MTR | 36 Plate Wort Chiller | 1 | £66.40 | £13.28 |
 | MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £24.00 | £4.80
+| MTR | Camco 02965 stainless steel heating element, 5500W | 2 | $118.90 | N |
