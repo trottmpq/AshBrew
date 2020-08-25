@@ -55,14 +55,14 @@ python based control software
 
 ## Purchased
 
-| Buyer | Item | Qty | Cost | VAT |
-|---|---|---|---|---|
-| HSL | TS5 - Mini Mag Pump | 3 | £118.74 | N |
-| HSL | 1/2" to 1/4" BSP Reducing bush | 2 | £3.50 |N |
-| HSL | Pt100 Temperature probes Probe type / length mm: PT100/60mm (+£2.50) | 3 | £43.74 | N |
-| HSL | Silicone Hose - Platinum Cured 1/2" | 3m | £11.88 | N |
-| HSL | 3 Way Ball valve - L port  | 3 | £81.24 | N |
-| HSL | 1/2" Tee | 1 | £2.29 |N |
-| HSL | 1/2" Hose Barb | 10 | £20.80 | N |
-| MTR | 36 Plate Wort Chiller | 1 | £66.40 | £13.28 |
-| MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £24.00 | £4.80
+| Buyer | Item | Qty | Cost (inc VAT) |
+|---|---|---|---|
+| HSL | TS5 - Mini Mag Pump | 3 | £142.49 | 
+| HSL | 1/2" to 1/4" BSP Reducing bush | 2 | £4.20 |
+| HSL | Pt100 Temperature probes Probe type / length mm: PT100/60mm (+£2.50) | 3 | £52.49 | 
+| HSL | Silicone Hose - Platinum Cured 1/2" | 3m | £14.26 | 
+| HSL | 3 Way Ball valve - L port  | 3 | £97.49 | 
+| HSL | 1/2" Tee | 1 | £2.75 |
+| HSL | 1/2" Hose Barb | 10 | £24.96 |
+| MTR | 36 Plate Wort Chiller | 1 | £79.68 | 
+| MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £28.80 |
