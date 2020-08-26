@@ -9,7 +9,7 @@
 |**SHIJING Dernord 240v 5500w 1" NPT Screw-in Type Electric Water Heater Folded Ripple Heating Element with Stainless Steel Cover**| £38.10 | 2 | <https://www.amazon.co.uk/SHIJING-Dernord-Electric-Heating-Stainless/dp/B07RXXQ9WT/ref=sr_1_2?crid=X4TMWMW5KRV&dchild=1&keywords=5500w+element&qid=1598305709&quartzVehicle=45-600&replacementKeywords=5500w&sprefix=5500W%2Caps%2C192&sr=8-2> | £76.20 | Matt |
 |STAINLESS STEEL FOLDBACK HEATING ELEMENT 3200W (32CM)   |30.56   |2   |<https://store.brewpi.com/featured/stainless-steel-foldback-heating-element-3200w-32cm>|61.12   |
 | WATER LEVEL FLOAT SWITCH (DRY-FIRE PROTECTION FOR HEATING ELEMENT) | 9.86 | 2 | <https://store.brewpi.com/temperature-control/solid-state-relays-ssr/water-level-float-switch-dry-fire-protection-for-heating-element> | 19.72 |
-|**Solid State Relay, SPST-NO, 40 A, 280 VAC, Panel, Screw, Zero Crossing** | 34.58 | 2 | <https://uk.farnell.com/crydom/d2440/ssr-40a-240vac/dp/1200243> | 69.16 | 
+|**Solid State Relay, SPST-NO, 40 A, 280 VAC, Panel, Screw, Zero Crossing** | 34.58 | 2 | <https://uk.farnell.com/crydom/d2440/ssr-40a-240vac/dp/1200243> | 69.16 |
 |**RTD sensors**   |26.77   |3   |<https://www.sterlingsensors.co.uk/rtd-sensor-with-process-connection.html>   |80.31   | Henry |
 |STAINLESS STEEL HERMS COIL   |89.4   |1   |<https://www.angelhomebrew.co.uk/herms/207-stainless-steel-herms-coil.html>   |89.4   |
 |Taps   |21.6   |4   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=filter%20steel&PN=Tap_Kit%2ehtml#SID=172>   |86.4   |
@@ -55,15 +55,15 @@ python based control software
 
 ## Purchased
 
-| Buyer | Item | Qty | Cost | VAT |
-|---|---|---|---|---|
-| HSL | TS5 - Mini Mag Pump | 3 | £118.74 | N |
-| HSL | 1/2" to 1/4" BSP Reducing bush | 2 | £3.50 |N |
-| HSL | Pt100 Temperature probes Probe type / length mm: PT100/60mm (+£2.50) | 3 | £43.74 | N |
-| HSL | Silicone Hose - Platinum Cured 1/2" | 3m | £11.88 | N |
-| HSL | 3 Way Ball valve - L port  | 3 | £81.24 | N |
-| HSL | 1/2" Tee | 1 | £2.29 |N |
-| HSL | 1/2" Hose Barb | 10 | £20.80 | N |
-| MTR | 36 Plate Wort Chiller | 1 | £66.40 | £13.28 |
-| MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £24.00 | £4.80
-| MTR | Camco 02965 stainless steel heating element, 5500W | 2 | $118.90 | N |
+| Buyer | Item | Qty | Cost (inc VAT) |
+|---|---|---|---|
+| HSL | TS5 - Mini Mag Pump | 3 | £142.49 |
+| HSL | 1/2" to 1/4" BSP Reducing bush | 2 | £4.20 |
+| HSL | Pt100 Temperature probes Probe type / length mm: PT100/60mm (+£2.50) | 3 | £52.49 |
+| HSL | Silicone Hose - Platinum Cured 1/2" | 3m | £14.26 |
+| HSL | 3 Way Ball valve - L port  | 3 | £97.49 |
+| HSL | 1/2" Tee | 1 | £2.75 |
+| HSL | 1/2" Hose Barb | 10 | £24.96 |
+| MTR | 36 Plate Wort Chiller | 1 | £79.68 |
+| MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £28.80 |
+| MTR | Camco 02965 stainless steel heating element, 5500W | 2 | $118.90 |
