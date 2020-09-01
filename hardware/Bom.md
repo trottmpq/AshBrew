@@ -2,8 +2,8 @@
 
 |Item   |Unit Cost   |Qty   |Link   |Total   | Responsible |
 |---|---|---|---|---|---|
-|**56 Ltr Stainless Steel Gas Boiler**   | 61.44 |3   | <https://www.angelhomebrew.co.uk/stockpots/8-50l-stainless-steel-pot.html>#  | 184.22   |
-|**Custom Cut false bottom**   |52.5   |1   |<https://www.angelhomebrew.co.uk/filters-and-strainers/366-40cm-stainless-steel-domed-false-bottom.html>   |52.5   |
+|**56 Ltr Stainless Steel Gas Boiler**   | 61.44 |3   | <https://www.angelhomebrew.co.uk/stockpots/8-50l-stainless-steel-pot.html>#  | 184.22   | Henry | 
+|**Custom Cut false bottom**   |52.5   |1   |<https://www.angelhomebrew.co.uk/filters-and-strainers/366-40cm-stainless-steel-domed-false-bottom.html>   |52.5   | Henry | 
 | Actual custom cut false bottom (alternate) | 52.5 | 1 | <https://www.brewbuilder.co.uk/custom-cut-false-bottom.html>>  | 52.5 |
 |240V 5500W Heating Element for Water Heater Foldback Stainless Steel Immersion Heater with 1 Inch BSP (DN25) Thread Silicone O Ring Provided   |31.99   |2   |<https://www.amazon.co.uk/Foldback-Stainless-Immersion-Silicone-Provided/dp/B07V6T4J7G/ref=sr_1_4?dchild=1&keywords=Water+Heater+Element+5500W&qid=1597090958&s=diy&sr=1-4>|63.98   | Both to look |
 |**SHIJING Dernord 240v 5500w 1" NPT Screw-in Type Electric Water Heater Folded Ripple Heating Element with Stainless Steel Cover**| £38.10 | 2 | <https://www.amazon.co.uk/SHIJING-Dernord-Electric-Heating-Stainless/dp/B07RXXQ9WT/ref=sr_1_2?crid=X4TMWMW5KRV&dchild=1&keywords=5500w+element&qid=1598305709&quartzVehicle=45-600&replacementKeywords=5500w&sprefix=5500W%2Caps%2C192&sr=8-2> | £76.20 | Matt |
@@ -67,3 +67,9 @@ python based control software
 | MTR | 36 Plate Wort Chiller | 1 | £79.68 |
 | MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £28.80 |
 | MTR | Camco 02965 stainless steel heating element, 5500W | 2 | $118.90 |
+| HSL | 3 off 50L Stainless Steel Pot | 3 | £184.32	 |
+| HSL | 40cm Stainless Steel Domed False Bottom | 1 | £57.00	  |
+| HSL | 1/2" BSP Equal Tee	| 1 | £2.99	 |
+| HSL | 14mm Q-Max Metal Punch	| 1  | £10.20	 |
+| HSL | 21mm Q-Max Metal Punch	| 1  | £11.88	 |
+| HSL | 34mm Q-Max Metal Punch	| 1  | £18.24	 |
