@@ -9,9 +9,9 @@
 |~~**SHIJING Dernord 240v 5500w 1" NPT Screw-in Type Electric Water Heater Folded Ripple Heating Element with Stainless Steel Cover**~~| £38.10 | 2 | <https://www.amazon.co.uk/SHIJING-Dernord-Electric-Heating-Stainless/dp/B07RXXQ9WT/ref=sr_1_2?crid=X4TMWMW5KRV&dchild=1&keywords=5500w+element&qid=1598305709&quartzVehicle=45-600&replacementKeywords=5500w&sprefix=5500W%2Caps%2C192&sr=8-2> | £76.20 | Matt |
 |~~STAINLESS STEEL FOLDBACK HEATING ELEMENT 3200W (32CM)~~   |30.56   |2   |<https://store.brewpi.com/featured/stainless-steel-foldback-heating-element-3200w-32cm>|61.12   |
 | WATER LEVEL FLOAT SWITCH (DRY-FIRE PROTECTION FOR HEATING ELEMENT) | 9.86 | 2 | <https://store.brewpi.com/temperature-control/solid-state-relays-ssr/water-level-float-switch-dry-fire-protection-for-heating-element> | 19.72 |
-|**Solid State Relay, SPST-NO, 40 A, 280 VAC, Panel, Screw, Zero Crossing** | 34.58 | 2 | <https://uk.farnell.com/crydom/d2440/ssr-40a-240vac/dp/1200243> | 69.16 |
+|~~**Solid State Relay, SPST-NO, 40 A, 280 VAC, Panel, Screw, Zero Crossing**~~ | 34.58 | 2 | <https://uk.farnell.com/crydom/d2440/ssr-40a-240vac/dp/1200243> | 69.16 |
 |~~**RTD sensors**~~   |26.77   |3   |<https://www.sterlingsensors.co.uk/rtd-sensor-with-process-connection.html>   |80.31   | Henry |
-|**STAINLESS STEEL HERMS COIL**   |89.4   |1   |<https://www.angelhomebrew.co.uk/herms/207-stainless-steel-herms-coil.html>   |89.4   |
+|~~**STAINLESS STEEL HERMS COIL**~~   |89.4   |1   |<https://www.angelhomebrew.co.uk/herms/207-stainless-steel-herms-coil.html>   |89.4   |
 |Taps   |21.6   |4   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=filter%20steel&PN=Tap_Kit%2ehtml#SID=172>   |86.4   |
 | ~~Option - 3 port valve~~ | 23.28 | 3 | <https://www.angelhomebrew.co.uk/valves-and-tap-kits/147-3-way-12-bsp-ball-valve.html> | 69.84 | Henry |
 |~~Techlifer MP-15RP Beer Pump with Food Grade Stainless Steel Head Magnetic Brewing Beer Pump with 1/2 Inch High Temp Magnetic Brewing Beer Pump(MP-15RP)~~   |67.99   |3   |<https://www.amazon.co.uk/Techlifer-MP-15RP-Stainless-Magnetic-Brewing/dp/B07P8S816B/ref=pd_sbs_200_2/262-6410432-3463527?_encoding=UTF8&pd_rd_i=B07P8S816B&pd_rd_r=b6decad4-e18b-44ba-ab6b-4b97f19e553a&pd_rd_w=0V3Pp&pd_rd_wg=viqEA&pf_rd_p=b9bf232d-9a8a-4c7d-aa9d-641c0995d3a2&pf_rd_r=FM5N7GMV75T46CYYW5Y5&psc=1&refRID=FM5N7GMV75T46CYYW5Y5>   |203.97   |
@@ -66,7 +66,7 @@ python based control software
 | HSL | 1/2" Hose Barb | 10 | £24.96 |
 | MTR | 36 Plate Wort Chiller | 1 | £79.68 |
 | MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £28.80 |
-| MTR | Camco 02965 stainless steel heating element, 5500W | 2 | $118.90 |
+| MTR | Camco 02965 stainless steel heating element, 5500W | 2 | £93.75 |
 | HSL | 3 off 50L Stainless Steel Pot | 3 | £184.32	 |
 | HSL | 12" Stainless Steel Domed False Bottom | 1 | £46.68	  |
 | HSL | 1/2" BSP Equal Tee	| 1 | £2.99	 |
