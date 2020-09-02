@@ -73,3 +73,4 @@ python based control software
 | HSL | 14mm Q-Max Metal Punch	| 1  | £10.20	 |
 | HSL | 21mm Q-Max Metal Punch	| 1  | £11.88	 |
 | HSL | 34mm Q-Max Metal Punch	| 1  | £18.24	 |
+| MTR | HERMS Coil + SSRs (2 off) | 1 | EUR 174.81 | 
