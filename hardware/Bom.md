@@ -68,7 +68,7 @@ python based control software
 | MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £28.80 |
 | MTR | Camco 02965 stainless steel heating element, 5500W | 2 | $118.90 |
 | HSL | 3 off 50L Stainless Steel Pot | 3 | £184.32	 |
-| HSL | 40cm Stainless Steel Domed False Bottom | 1 | £57.00	  |
+| HSL | 12" Stainless Steel Domed False Bottom | 1 | £46.68	  |
 | HSL | 1/2" BSP Equal Tee	| 1 | £2.99	 |
 | HSL | 14mm Q-Max Metal Punch	| 1  | £10.20	 |
 | HSL | 21mm Q-Max Metal Punch	| 1  | £11.88	 |
