@@ -28,6 +28,8 @@
 | Bung | 0.6 | 2 | <https://www.the-home-brew-shop.co.uk/acatalog/Rubber_Bung_for_Demijohn_Bored_WITH_HOLE_.html> | 1.20 |  
 | Grain mill | 91.50 | 1 | <https://www.home-brew-online.com/equipment-c40/bulldog-brews-bulldog-malt-mill-p2350> | 91.50 |
 | Hydrometer | ~10 | 1 | various | 10 |
+| silicon  O ring for 1/2" bsp | £15.31 | pack of 50 | <https://uk.rs-online.com/web/p/products/5279908/> | 15.31 |
+
 
 ## Current total
 
