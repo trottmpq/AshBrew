@@ -78,3 +78,4 @@ python based control software
 | MTR | HERMS Coil + SSRs (2 off) | 1 | EUR 174.81 | 
 | HSL | Drill bits and jubilee clips | var | £36.49 |
 | HSL | MAX31865 dev | 1 | 24.98 | 
+| HSL | Brew builder extra parts | v | £56.50 |
