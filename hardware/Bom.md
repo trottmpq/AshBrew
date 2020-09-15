@@ -68,14 +68,15 @@ python based control software
 | HSL | 1/2" Hose Barb | 10 | £24.96 |
 | MTR | 36 Plate Wort Chiller | 1 | £79.68 |
 | MTR | Tap Kit Weldless & Hop or Grain Filter | 1 | £28.80 |
-| MTR | Camco 02965 stainless steel heating element, 5500W | 2 | £93.75 |
-| HSL | 3 off 50L Stainless Steel Pot | 3 | £184.32	 |
-| HSL | 12" Stainless Steel Domed False Bottom | 1 | £46.68	  |
-| HSL | 1/2" BSP Equal Tee	| 1 | £2.99	 |
-| HSL | 14mm Q-Max Metal Punch	| 1  | £10.20	 |
-| HSL | 21mm Q-Max Metal Punch	| 1  | £11.88	 |
-| HSL | 34mm Q-Max Metal Punch	| 1  | £18.24	 |
-| MTR | HERMS Coil + SSRs (2 off) | 1 | EUR 174.81 | 
+| MTR | Camco 02965 stainless steel heating element, 5500W | 2 | £116.19 |
+| HSL | 3 off 50L Stainless Steel Pot | 3 | £184.32 |
+| HSL | 12" Stainless Steel Domed False Bottom | 1 | £46.68  |
+| HSL | 1/2" BSP Equal Tee | 1 | £2.99  |
+| HSL | 14mm Q-Max Metal Punch | 1  | £10.20  |
+| HSL | 21mm Q-Max Metal Punch | 1  | £11.88  |
+| HSL | 34mm Q-Max Metal Punch | 1  | £18.24  |
+| MTR | HERMS Coil + SSRs (2 off) | 1 | EUR 174.81 |
 | HSL | Drill bits and jubilee clips | var | £36.49 |
-| HSL | MAX31865 dev | 1 | 24.98 | 
+| HSL | MAX31865 dev | 1 | 24.98 |
 | HSL | Brew builder extra parts | v | £56.50 |
+| MTR | Washers, Nipple and Nuts | V | £36.90 |
