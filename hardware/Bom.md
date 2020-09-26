@@ -22,7 +22,7 @@
 |~~**Tap Kit Weldless & Hop or Grain Filter**~~   |28.8   |1   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=filter&PN=Tap%2dKit%2dWeldless%2dHop%2dGrain%2dFilter%2ehtml#SID=172>   |28.8   | Matt |
 |~~**Counterflow 36 Plate Wort Chiller from S30**~~   |79.68   |1   |<https://www.the-home-brew-shop.co.uk/cgi-bin/sh000001.pl?WD=chiller&PN=Plate%2dWort%2dChiller%2dfrom%2dS30%2ehtml#SID=168>   |79.68   | Matt |
 | ~~Silicon tubing~~ | 3.96 pm | 3 | | 11.88 | Henry |
-| Work Bench (800 x 1500mm) stainless steel | 199.00 | 1| <https://www.machinemart.co.uk/p/sealey-ap1248ss-stainless-steel-workbench-15m/> | 199.00 |
+| ~~Work Bench (800 x 1500mm) stainless steel ~~| 199.00 | 1| <https://www.machinemart.co.uk/p/sealey-ap1248ss-stainless-steel-workbench-15m/> | 199.00 |
 | Plastic carboy (fermenting) | 20 | 2 | <https://www.brewstore.co.uk/23-litre-plastic-carboy> | 40 |
 | Air lock | 1.50 | 2 | <https://www.the-home-brew-shop.co.uk/acatalog/Super_Major_Airlock.html> | 3 |
 | Bung | 0.6 | 2 | <https://www.the-home-brew-shop.co.uk/acatalog/Rubber_Bung_for_Demijohn_Bored_WITH_HOLE_.html> | 1.20 |  
@@ -80,3 +80,7 @@ python based control software
 | HSL | MAX31865 dev | 1 | 24.98 |
 | HSL | Brew builder extra parts | v | £56.50 |
 | MTR | Washers, Nipple and Nuts | V | £36.90 |
+| HSL | PSU, Mains bits | V | 48.04 | 
+| HSL | RTD Dev board | 1 | 24.98 |
+| HSL | Aluminium Rod | 500mm | 44.17 | 
+
