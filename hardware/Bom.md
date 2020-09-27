@@ -2,8 +2,8 @@
 
 |Item   |Unit Cost   |Qty   |Link   |Total   | Responsible |
 |---|---|---|---|---|---|
-|~~**56 Ltr Stainless Steel Gas Boiler**~~ | 61.44 |3   | <https://www.angelhomebrew.co.uk/stockpots/8-50l-stainless-steel-pot.html>#  | 184.22   | Henry | 
-|~~**Custom Cut false bottom**~~   |52.5   |1   |<https://www.angelhomebrew.co.uk/filters-and-strainers/366-40cm-stainless-steel-domed-false-bottom.html>   |52.5   | Henry | 
+|~~**56 Ltr Stainless Steel Gas Boiler**~~ | 61.44 |3   | <https://www.angelhomebrew.co.uk/stockpots/8-50l-stainless-steel-pot.html>#  | 184.22   | Henry |
+|~~**Custom Cut false bottom**~~   |52.5   |1   |<https://www.angelhomebrew.co.uk/filters-and-strainers/366-40cm-stainless-steel-domed-false-bottom.html>   |52.5   | Henry |
 | ~~Actual custom cut false bottom (alternate)~~ | 52.5 | 1 | <https://www.brewbuilder.co.uk/custom-cut-false-bottom.html>>  | 52.5 |
 |~~240V 5500W Heating Element for Water Heater Foldback Stainless Steel Immersion Heater with 1 Inch BSP (DN25) Thread Silicone O Ring Provided~~   |31.99   |2   |<https://www.amazon.co.uk/Foldback-Stainless-Immersion-Silicone-Provided/dp/B07V6T4J7G/ref=sr_1_4?dchild=1&keywords=Water+Heater+Element+5500W&qid=1597090958&s=diy&sr=1-4>|63.98   | Both to look |
 |~~**SHIJING Dernord 240v 5500w 1" NPT Screw-in Type Electric Water Heater Folded Ripple Heating Element with Stainless Steel Cover**~~| £38.10 | 2 | <https://www.amazon.co.uk/SHIJING-Dernord-Electric-Heating-Stainless/dp/B07RXXQ9WT/ref=sr_1_2?crid=X4TMWMW5KRV&dchild=1&keywords=5500w+element&qid=1598305709&quartzVehicle=45-600&replacementKeywords=5500w&sprefix=5500W%2Caps%2C192&sr=8-2> | £76.20 | Matt |
@@ -29,7 +29,6 @@
 | Grain mill | 91.50 | 1 | <https://www.home-brew-online.com/equipment-c40/bulldog-brews-bulldog-malt-mill-p2350> | 91.50 |
 | Hydrometer | ~10 | 1 | various | 10 |
 | silicon  O ring for 1/2" bsp | £15.31 | pack of 50 | <https://uk.rs-online.com/web/p/products/5279908/> | 15.31 |
-
 
 ## Current total
 
@@ -75,12 +74,20 @@ python based control software
 | HSL | 14mm Q-Max Metal Punch | 1  | £10.20  |
 | HSL | 21mm Q-Max Metal Punch | 1  | £11.88  |
 | HSL | 34mm Q-Max Metal Punch | 1  | £18.24  |
-| MTR | HERMS Coil + SSRs (2 off) | 1 | EUR 174.81 |
+| MTR | HERMS Coil + SSRs (2 off) | 1 | £168.22 |
 | HSL | Drill bits and jubilee clips | var | £36.49 |
 | HSL | MAX31865 dev | 1 | 24.98 |
 | HSL | Brew builder extra parts | v | £56.50 |
 | MTR | Washers, Nipple and Nuts | V | £36.90 |
-| HSL | PSU, Mains bits | V | 48.04 | 
+| HSL | PSU, Mains bits | V | 48.04 |
 | HSL | RTD Dev board | 1 | 24.98 |
-| HSL | Aluminium Rod | 500mm | 44.17 | 
-
+| HSL | Aluminium Rod | 500mm | 44.17 |
+| MTR | Table | 1 | £199.99 |
+| MTR | 1" Nut for heaters | 2 | £20.18 |
+| MTR | Steriliser | 400 ml | £3.90 |
+| MTR | Hydrometer | 1 | £2.75 |
+| MTR | Wort Skimmer | 1 | £7.40 |
+| MTR | Fermenter | 1 | 12.80|
+| MTR | Tubing | 2m | £6.60 |
+| MTR | PH Strips | 100 | £4.10 |
+| MTR | Ingredients | Various | £25.70 |
