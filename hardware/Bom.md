@@ -91,3 +91,8 @@ python based control software
 | MTR | Tubing | 2m | £6.60 |
 | MTR | PH Strips | 100 | £4.10 |
 | MTR | Ingredients | Various | £25.70 |
+| HSL | extra sensors | Home Brew Shop |  25 | 
+| HSL | Screws and alraldite | Screwfix | 12.68 |
+| HSL | PCB Components, Connectors, box and bits | Farnell | 151.71
+| HSL | Heatsink and screws | Farnell | 30.78 | 
+| HSL | Bottles | The Range | 12.99 | 
